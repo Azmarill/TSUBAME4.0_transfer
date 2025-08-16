@@ -12,7 +12,7 @@ fi
 
 REMOTE_USER="uw06174"
 REMOTE_HOST="login.t4.gsic.titech.ac.jp"
-REMOTE_DIR="/home/${REMOTE_USER}/data/"
+REMOTE_DIR="/home/4/${REMOTE_USER}/data/"
 MODE="$1"
 SSH_KEY="~/.ssh/id_ed25519"
 
